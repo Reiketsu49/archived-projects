@@ -1,0 +1,14 @@
+Old development notes
+=====================
+
+Some of my earlier projects were maintained on gitclub.
+
+Most of those repositories were eventually moved or archived.
+
+Jade_Lamp
+ARX-7
+Orpheus Drive
+
+The original notes are incomplete.
+
+Last updated: 2023
